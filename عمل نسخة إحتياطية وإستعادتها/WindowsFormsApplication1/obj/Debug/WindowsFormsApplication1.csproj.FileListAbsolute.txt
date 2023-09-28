@@ -1,0 +1,22 @@
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\كمبيوتر\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maine.resources
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maine.resources
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\كمبيوتر\C#\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\عمل نسخة إحتياطية وإستعادتها\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
