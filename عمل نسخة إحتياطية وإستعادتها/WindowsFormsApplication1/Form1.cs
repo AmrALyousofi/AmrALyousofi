@@ -20,10 +20,6 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
-
-        
-    
-
         private void my_Button1_Click(object sender, EventArgs e)
         {
             if ((MessageBox.Show("هل أنت متأكد من عمل نسخة إحياطية للظام ", "تنبيه", MessageBoxButtons.YesNo, MessageBoxIcon.Question)) == DialogResult.Yes)
